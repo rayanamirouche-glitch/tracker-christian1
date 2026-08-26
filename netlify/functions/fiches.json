@@ -1,0 +1,432 @@
+[
+{
+"name": "Pro Etanche Belge",
+"q": "Pro Etanche Belge",
+"target": "pro etanche belge",
+"ll": "50.877,4.326",
+"kw": "couvreur jette",
+"city": "Jette",
+"link": "https://maps.app.goo.gl/cNxsfKkKVDZnD3wp7",
+"region": "Belgique"
+},
+{
+"name": "Pro Toiture Watermael-Boitsort",
+"q": "Pro Toiture Watermael-Boitsort",
+"target": "pro toiture watermael",
+"ll": "50.799,4.416",
+"kw": "couvreur watermael-boitsfort",
+"city": "Watermael-Boitsfort",
+"link": "https://maps.app.goo.gl/yrBy5FZKizET1ZTW9",
+"region": "Belgique"
+},
+{
+"name": "GENERALE COUVERTURE ÉTANCHÉITÉ TOITURE",
+"q": "GENERALE COUVERTURE ÉTANCHÉITÉ TOITURE",
+"target": "generale couverture etancheite",
+"ll": "50.864,4.293",
+"kw": "couvreur berchem-sainte-agathe",
+"city": "Berchem-Sainte-Agathe",
+"link": "https://maps.app.goo.gl/5PxLXkraCSmZ2E1L8",
+"region": "Belgique"
+},
+{
+"name": "MG Couverture",
+"q": "MG Couverture",
+"target": "mg couverture",
+"ll": "50.870,4.401",
+"kw": "couvreur evere",
+"city": "Evere",
+"link": "https://maps.app.goo.gl/iQUY8DdsDWXFUZRn7",
+"region": "Belgique"
+},
+{
+"name": "DP Toiture (Molenbeek)",
+"q": "DP Toiture",
+"target": "dp toiture",
+"ll": "50.854,4.322",
+"kw": "couvreur molenbeek-saint-jean",
+"city": "Molenbeek-Saint-Jean",
+"link": "https://maps.app.goo.gl/9RJt5xbWWk32dd4p6",
+"region": "Belgique"
+},
+{
+"name": "SG Entreprise Couverture",
+"q": "SG Entreprise Couverture",
+"target": "sg entreprise",
+"ll": "50.826,4.345",
+"kw": "couvreur saint-gilles",
+"city": "Saint-Gilles",
+"link": "https://maps.app.goo.gl/odX72RnNmCUuct2MA",
+"region": "Belgique"
+},
+{
+"name": "WP Toiture Belge",
+"q": "WP Toiture Belge",
+"target": "wp toiture",
+"ll": "50.831,4.454",
+"kw": "couvreur woluwe-saint-pierre",
+"city": "Woluwe-Saint-Pierre",
+"link": "https://maps.app.goo.gl/LffW4pkMT2iSikTVA",
+"region": "Belgique"
+},
+{
+"name": "Toiture Anderlecht Couverture SRT",
+"q": "Toiture Anderlecht Couverture SRT",
+"target": "couverture srt",
+"ll": "50.836,4.295",
+"kw": "couvreur anderlecht",
+"city": "Anderlecht",
+"link": "https://maps.app.goo.gl/W3xACVV8N3EkgZMa8",
+"region": "Belgique"
+},
+{
+"name": "Toiturier Jean",
+"q": "Toiturier Jean",
+"target": "toiturier jean",
+"ll": "50.815,4.433",
+"kw": "couvreur auderghem",
+"city": "Auderghem",
+"link": "https://maps.app.goo.gl/K2vU8APLMKYRkPkd9",
+"region": "Belgique"
+},
+{
+"name": "Pro Toiture Koekelberg",
+"q": "Pro Toiture Koekelberg",
+"target": "pro toiture koekelberg",
+"ll": "50.862,4.325",
+"kw": "couvreur koekelberg",
+"city": "Koekelberg",
+"link": "https://maps.app.goo.gl/24omADfGBrtXzgbP6",
+"region": "Belgique"
+},
+{
+"name": "Entreprise toiture Etterbeek Marc",
+"q": "Entreprise toiture Etterbeek Marc",
+"target": "etterbeek marc",
+"ll": "50.836,4.389",
+"kw": "couvreur etterbeek",
+"city": "Etterbeek",
+"link": "https://maps.app.goo.gl/qTV8e9hQCTsPTKBq9",
+"region": "Belgique"
+},
+{
+"name": "Generale Toiture Forest Atelier",
+"q": "Generale Toiture Forest Atelier",
+"target": "forest atelier",
+"ll": "50.809,4.317",
+"kw": "couvreur forest",
+"city": "Forest",
+"link": "https://maps.app.goo.gl/qKEYRaKx5bXVFmx48",
+"region": "Belgique"
+},
+{
+"name": "SL Atelier Toiture Chris P",
+"q": "SL Atelier Toiture Chris P",
+"target": "sl atelier",
+"ll": "50.871,4.301",
+"kw": "couvreur ganshoren",
+"city": "Ganshoren",
+"link": "https://maps.app.goo.gl/odAiDomoxn8uKubo7",
+"region": "Belgique"
+},
+{
+"name": "Pro Toiture Ixelles - Pro Toiturier",
+"q": "Pro Toiture Ixelles - Pro Toiturier",
+"target": "pro toiture ixelles",
+"ll": "50.822,4.372",
+"kw": "couvreur ixelles",
+"city": "Ixelles",
+"link": "https://maps.app.goo.gl/KuK6CTVjhyX3rDR96",
+"region": "Belgique"
+},
+{
+"name": "Extra Toiture Belge Père Et Fils",
+"q": "Extra Toiture Belge Père Et Fils",
+"target": "extra toiture belge",
+"ll": "50.862,4.325",
+"kw": "couvreur koekelberg",
+"city": "Koekelberg",
+"link": "https://maps.app.goo.gl/w8iQAZ9ch1EzUyu4A",
+"region": "Belgique"
+},
+{
+"name": "Artisan J. Expertise Toiture",
+"q": "Artisan J. Expertise Toiture",
+"target": "artisan j expertise",
+"ll": "50.852,4.372",
+"kw": "couvreur saint-josse-ten-noode",
+"city": "Saint-Josse-ten-Noode",
+"link": "https://maps.app.goo.gl/JxbhESVanY1aCihx5",
+"region": "Belgique"
+},
+{
+"name": "Entreprise Toiturier Demoussage JP",
+"q": "Entreprise Toiturier Demoussage JP",
+"target": "demoussage jp",
+"ll": "50.867,4.373",
+"kw": "couvreur schaerbeek",
+"city": "Schaerbeek",
+"link": "https://maps.app.goo.gl/N4jXeQdVjPJcM8nv7",
+"region": "Belgique"
+},
+{
+"name": "Les Toitures et Expertise",
+"q": "Les Toitures et Expertise",
+"target": "les toitures et expertise",
+"ll": "50.789,4.357",
+"kw": "couvreur uccle",
+"city": "Uccle",
+"link": "https://maps.app.goo.gl/yxvxqQShFfvLR39F9",
+"region": "Belgique"
+},
+{
+"name": "Pro Toiture",
+"q": "Pro Toiture",
+"target": "pro toiture",
+"ll": "50.715,4.399",
+"kw": "couvreur waterloo",
+"city": "Waterloo",
+"link": "https://maps.app.goo.gl/BvpmZcLvXUV4zeGCA",
+"region": "Belgique"
+},
+{
+"name": "DP Toiture (Knokke-Heist)",
+"q": "DP Toiture",
+"target": "dp toiture",
+"ll": "51.348,3.293",
+"kw": "couvreur knokke-heist",
+"city": "Knokke-Heist",
+"link": "https://maps.app.goo.gl/nHmzNAJfx9Kt9iTH9",
+"region": "Belgique"
+},
+{
+"name": "Expert Roof Toiture Charpente",
+"q": "Expert Roof Toiture Charpente",
+"target": "expert roof",
+"ll": "50.788,4.315",
+"kw": "couvreur drogenbos",
+"city": "Drogenbos",
+"link": "https://maps.app.goo.gl/2a6CP5C1QCiJ9hDVA",
+"region": "Belgique"
+},
+{
+"name": "Les Pro Toiturier PM Kraainem",
+"q": "Les Pro Toiturier PM Kraainem",
+"target": "pm kraainem",
+"ll": "50.861,4.469",
+"kw": "couvreur kraainem",
+"city": "Kraainem",
+"link": "https://maps.app.goo.gl/D7N8Lk92VWtjjkFj8",
+"region": "Belgique"
+},
+{
+"name": "SOS Toiture Charpente",
+"q": "SOS Toiture Charpente",
+"target": "sos toiture",
+"ll": "50.746,4.358",
+"kw": "couvreur rhode-saint-genèse",
+"city": "Rhode-Saint-Genèse",
+"link": "https://maps.app.goo.gl/RKguwf7dRBzmgmdG9",
+"region": "Belgique"
+},
+{
+"name": "Clément Toiture étanchéité Flerbentier",
+"q": "Clément Toiture étanchéité Flerbentier",
+"target": "clement toiture",
+"ll": "50.907,4.310",
+"kw": "couvreur wemmel",
+"city": "Wemmel",
+"link": "https://maps.app.goo.gl/rDPvhQRpCBM9vnTF7",
+"region": "Belgique"
+},
+{
+"name": "Expert Flerbentier Toiture",
+"q": "Expert Flerbentier Toiture",
+"target": "expert flerbentier",
+"ll": "50.842,4.492",
+"kw": "couvreur wezembeek-oppem",
+"city": "Wezembeek-Oppem",
+"link": "https://maps.app.goo.gl/NrL5dMhwUZLypFK3A",
+"region": "Belgique"
+},
+{
+"name": "David Flerbentier Charpentier Asse",
+"q": "David Flerbentier Charpentier Asse",
+"target": "david flerbentier",
+"ll": "50.910,4.198",
+"kw": "couvreur asse",
+"city": "Asse",
+"link": "https://maps.app.goo.gl/Yjh3yk3xkXxPY8oH9",
+"region": "Belgique"
+},
+{
+"name": "Chris Expertise Toiture",
+"q": "Chris Expertise Toiture",
+"target": "chris expertise",
+"ll": "50.766,4.300",
+"kw": "couvreur beersel",
+"city": "Beersel",
+"link": "https://maps.app.goo.gl/NDVsa4tkfATc56Pp9",
+"region": "Belgique"
+},
+{
+"name": "Jean Toiture Roof Pro Dilbeek",
+"q": "Jean Toiture Roof Pro Dilbeek",
+"target": "jean toiture roof",
+"ll": "50.848,4.258",
+"kw": "couvreur dilbeek",
+"city": "Dilbeek",
+"link": "https://maps.app.goo.gl/fdcEe2Ag6ys6BnB86",
+"region": "Belgique"
+},
+{
+"name": "Pro Roof Toiture Devis Gratuit",
+"q": "Pro Roof Toiture Devis Gratuit",
+"target": "pro roof toiture",
+"ll": "50.934,4.372",
+"kw": "couvreur grimbergen",
+"city": "Grimbergen",
+"link": "https://maps.app.goo.gl/4M8J76sW5U2PcPZY9",
+"region": "Belgique"
+},
+{
+"name": "Contact Toiture Hoeilaart",
+"q": "Contact Toiture Hoeilaart",
+"target": "contact toiture hoeilaart",
+"ll": "50.767,4.468",
+"kw": "couvreur hoeilaart",
+"city": "Hoeilaart",
+"link": "https://maps.app.goo.gl/ZMpjgEcx4VB6WveZ6",
+"region": "Belgique"
+},
+{
+"name": "Les professionnels De la Toiture Meise",
+"q": "Les professionnels De la Toiture Meise",
+"target": "toiture meise",
+"ll": "50.941,4.331",
+"kw": "couvreur meise",
+"city": "Meise",
+"link": "https://maps.app.goo.gl/BXBsjYaHQwGDCjSD9",
+"region": "Belgique"
+},
+{
+"name": "Belle charpente Toiture",
+"q": "Belle charpente Toiture",
+"target": "belle charpente",
+"ll": "50.959,4.230",
+"kw": "couvreur merchtem",
+"city": "Merchtem",
+"link": "https://maps.app.goo.gl/NBRrSDAgj3NDK9tZ9",
+"region": "Belgique"
+},
+{
+"name": "CC Toiture Overijse",
+"q": "CC Toiture Overijse",
+"target": "cc toiture",
+"ll": "50.774,4.535",
+"kw": "couvreur overijse",
+"city": "Overijse",
+"link": "https://maps.app.goo.gl/hd3qKi5FF9Zje9x19",
+"region": "Belgique"
+},
+{
+"name": "Proxi Toiture Flerbentier",
+"q": "Proxi Toiture Flerbentier",
+"target": "proxi toiture",
+"ll": "50.779,4.244",
+"kw": "couvreur sint-pieters-leeuw",
+"city": "Sint-Pieters-Leeuw",
+"link": "https://maps.app.goo.gl/TBBgdxgeTo6eedsB6",
+"region": "Belgique"
+},
+{
+"name": "Toiture & Charpente Tervuren",
+"q": "Toiture & Charpente Tervuren",
+"target": "charpente tervuren",
+"ll": "50.823,4.514",
+"kw": "couvreur tervuren",
+"city": "Tervuren",
+"link": "https://maps.app.goo.gl/vhuv1MuFRwvwKGMH7",
+"region": "Belgique"
+},
+{
+"name": "BG Toiture Vilvorde",
+"q": "BG Toiture Vilvorde",
+"target": "bg toiture",
+"ll": "50.928,4.426",
+"kw": "couvreur vilvoorde",
+"city": "Vilvoorde",
+"link": "https://maps.app.goo.gl/qMcZjT97iBL1QBiV9",
+"region": "Belgique"
+},
+{
+"name": "Jean Louis Roof Toiture",
+"q": "Jean Louis Roof Toiture",
+"target": "jean louis roof",
+"ll": "50.885,4.472",
+"kw": "couvreur zaventem",
+"city": "Zaventem",
+"link": "https://maps.app.goo.gl/UAkaNyQ8Ljpb45q87",
+"region": "Belgique"
+},
+{
+"name": "Les Bons Toituriers",
+"q": "Les Bons Toituriers",
+"target": "les bons toituriers",
+"ll": "49.568,5.533",
+"kw": "couvreur virton",
+"city": "Virton",
+"link": "https://maps.app.goo.gl/4BGd7pptx5TwXUcEA",
+"region": "Belgique"
+},
+{
+"name": "Toiturier Flerbentier Rouvroy",
+"q": "Toiturier Flerbentier Rouvroy",
+"target": "flerbentier rouvroy",
+"ll": "49.539,5.487",
+"kw": "couvreur rouvroy",
+"city": "Rouvroy",
+"link": "https://maps.app.goo.gl/1kPaL1BFscMAYymq8",
+"region": "Belgique"
+},
+{
+"name": "Tidjy Toiturier Flerbentier",
+"q": "Tidjy Toiturier Flerbentier",
+"target": "tidjy toiturier",
+"ll": "49.606,5.480",
+"kw": "couvreur meix-devant-virton",
+"city": "Meix-devant-Virton",
+"link": "https://maps.app.goo.gl/2WKQ6Khx9AyBiLZu5",
+"region": "Belgique"
+},
+{
+"name": "Yannick Pro Toiture Express",
+"q": "Yannick Pro Toiture Express",
+"target": "yannick pro",
+"ll": "49.557,5.703",
+"kw": "couvreur musson",
+"city": "Musson",
+"link": "https://maps.app.goo.gl/cwsfps45F6zHkHoC6",
+"region": "Belgique"
+},
+{
+"name": "HP Toiture Gedinne",
+"q": "HP Toiture Gedinne",
+"target": "hp toiture gedinne",
+"ll": "49.980,4.936",
+"kw": "couvreur gedinne",
+"city": "Gedinne",
+"link": "https://maps.app.goo.gl/JSsk22ceN2SmnESZ8",
+"region": "Belgique"
+},
+{
+"name": "DI Toiturier & Flerbentier",
+"q": "DI Toiturier & Flerbentier",
+"target": "di toiturier",
+"ll": "50.838,3.478",
+"kw": "couvreur anzegem",
+"city": "Anzegem",
+"link": "https://maps.app.goo.gl/kTxW13w92fWmn7Qc8",
+"region": "Belgique"
+}
+]
