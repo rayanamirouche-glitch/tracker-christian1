@@ -6,3 +6,16 @@
 
 [functions."snapshot_rank"]
   schedule = "10 6 * * 1"
+
+[functions."snapshot_rank_b"]
+  schedule = "13 6 * * 1"
+
+[functions."snapshot_rank_c"]
+  schedule = "16 6 * * 1"
+
+[functions."snapshot_rank_d"]
+  schedule = "19 6 * * 1"
+
+[functions."snapshot_rank_e"]
+  schedule = "22 6 * * 1"
+

@@ -118,9 +118,6 @@ async function snapRank(start, baseUrl) {
   if (idsChanged) await setJSON('ids', ids);
   await setJSON('rankbatch/' + today() + '/' + start, snap);
   if (start === 0) await setJSON('rankMeta', { last: new Date().toISOString() });
-  if (start + WAVE < FICHES.length && baseUrl) {
-    try { await to(fetch(baseUrl + '/.netlify/functions/run?type=rank&force=1&start=' + (start + WAVE)), 1500) } catch (e) {}
-  }
 }
 
 async function rankHist() {

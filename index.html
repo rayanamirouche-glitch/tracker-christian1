@@ -58,7 +58,6 @@ tr.alert{background:#fef2f2}tr.alert:hover{background:#fee2e2}
 <div class="stat"><div class="stat-lbl">Note moyenne</div><div class="stat-val" id="stNote">—</div></div>
 <div class="stat"><div class="stat-lbl">Fiches liées</div><div class="stat-val" id="stLink">—</div></div>
 <div class="stat"><div class="stat-lbl">Top 3 local</div><div class="stat-val" id="stTop">—</div></div>
-
 </div>
 <div class="chartbox"><canvas id="chart" height="90"></canvas></div>
 <table><thead><tr><th>#</th><th>Fiche</th><th>Ville</th><th>Avis</th><th>⭐</th><th>Position</th></tr></thead>
@@ -162,18 +161,24 @@ async function runAvis(){
 
 async function runRank(){
   if(!confirm('Relever les classements maintenant ?')) return;
-  $('btnRank').disabled = true; msg('Relevé des classements… les positions arrivent par vagues (~1 min)');
+  $('btnRank').disabled = true;
+  const n = (DATA && DATA.fiches ? DATA.fiches.length : 43);
+  const waves = [];
+  for (let s = 0; s < n; s += 10) waves.push(s);
   try{
-    const r = await fetch('/.netlify/functions/run?type=rank' + (admin ? '&force=1' : ''));
+    msg('Vague 1 / ' + waves.length + '…');
+    const r = await fetch('/.netlify/functions/run?type=rank&start=0' + (admin ? '&force=1' : ''));
     if (r.status === 429) {
       const j = await r.json();
-      msg('Classements déjà relevés récemment — prochain relevé possible dans ~' + j.cooldown + 'h (auto lun & jeu)');
-    } else {
-      msg('Vague 1 relevée ✓ — la suite arrive, la page se rafraîchit…');
-      setTimeout(async () => { await load(); msg('Classements à jour ✓') }, 45000);
-      await load();
+      msg('Classements déjà relevés récemment — prochain relevé possible dans ~' + j.cooldown + 'h');
+      $('btnRank').disabled = false; return;
     }
-  }catch(e){ msg('Relevé lancé — les résultats arrivent au prochain rafraîchissement'); setTimeout(load, 75000) }
+    for (let i = 1; i < waves.length; i++) {
+      msg('Vague ' + (i+1) + ' / ' + waves.length + '…');
+      await fetch('/.netlify/functions/run?type=rank&force=1&start=' + waves[i]);
+    }
+    await load(); msg('Classements à jour ✓ (' + waves.length + ' vagues)');
+  }catch(e){ msg('Erreur pendant le relevé — recharge et réessaie'); }
   $('btnRank').disabled = false;
 }
 
